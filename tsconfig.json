@@ -3,7 +3,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": ".",
-    "outDir": "dist/admin-dashboard",
+    "outDir": "docs/admin-dashboard",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
