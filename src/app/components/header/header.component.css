@@ -1,0 +1,6 @@
+.alert {
+  margin: 0px 0px 0px 0px !important;
+  text-align: center;
+  border: none;
+  background-image: linear-gradient(to right, rgba(16, 15, 15, 0), rgb(114, 115, 117));
+}
